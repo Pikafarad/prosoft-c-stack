@@ -3,6 +3,8 @@
 
 #define UNUSED(VAR) (void)(VAR)
 
+int a;
+
 hstack_t stack_new(void)
 {
     return -1;
